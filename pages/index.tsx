@@ -20,7 +20,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to{" "}
-          <a href="https://github.com/Aldhanekaa/TipTap-Example-React-Editor">
+          <a href="https://github.com/AttractiveFrank/TipTap-Example-React-Editor">
             TipTap Example React Editor
           </a>
         </h1>
