@@ -29,7 +29,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a
-          href="https://github.com/aldhanekaa"
+          href="https://github.com/AttractiveFrank/TipTap-Example-React-Editor"
           target="_blank"
           rel="noopener noreferrer"
         >
